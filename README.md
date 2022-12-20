@@ -2,14 +2,14 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/devanandgalande/devanandgalande.github.io/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  aritranag20.github.io - v1
+  devanandgalande.github.io - v1
 </h1>
 <p align="center">
   The first iteration of <a href="https://devanandgalande.github.io" target="_blank">devanandgalande.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github pages</a>
 </p>
 
 
-![demo](https://github.com/aritranag20/aritranag20.github.io/blob/main/static/og.png)
+<!-- ![demo](https://github.com/aritranag20/aritranag20.github.io/blob/main/static/og.png) -->
 
 
 
